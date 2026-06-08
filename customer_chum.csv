@@ -1,0 +1,20 @@
+CustomerID,Gender,Age,SubscriptionType,Tenure,MonthlyCharges,SupportTickets,SatisfactionScore,LastLoginDays,Churn
+C1011,Female,34,Basic,2,45.0,5,1,14,Yes
+C1012,Male,45,Basic,3,45.0,4,2,20,Yes
+C1013,Female,22,Basic,1,49.0,6,1,25,Yes
+C1014,Male,38,Basic,4,39.0,3,2,18,Yes
+C1015,Female,29,Basic,3,42.5,4,2,22,Yes
+C1016,Male,50,Pro,5,79.0,5,1,12,Yes
+C1017,Female,19,Pro,2,85.0,5,2,16,Yes
+C1018,Male,61,Premium,8,120.0,6,1,8,Yes
+C1019,Female,27,Basic,1,39.0,4,2,15,Yes
+C2011,Female,42,Premium,36,115.0,1,5,1,No
+C2012,Male,39,Pro,24,75.0,0,4,3,No
+C2013,Female,28,Pro,18,80.0,1,5,2,No
+C2014,Male,55,Premium,42,119.0,0,4,4,No
+C2015,Female,31,Basic,14,39.0,2,4,5,No
+C2016,Male,48,Pro,29,85.0,1,4,2,No
+C2017,Female,37,Premium,33,125.0,2,5,1,No
+C3011,Female,47,Basic,10,45.0,3,3,8,No
+C3012,Male,23,Pro,6,75.0,4,2,12,No
+... [Truncative presentation: 102 lines omitted for visual balance]
